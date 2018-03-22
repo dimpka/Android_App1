@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OJICHARHAIKU</string>
+    <string name="startover_button">STARTOVER</string>
+    <string name="display_button">DISPLAY</string>
+    <string name="delete_button">DELETE THE LAST WORD ADDED</string>
+    <string name="adjectives_button">Adjectives</string>
+    <string name="nouns_button">Nouns</string>
+    <string name="verbs_button">Verbs</string>
+    <string name="other_button">Other</string>
+    <string name="clicks">I feel ya!</string>
+    <string name="clicks2">I feel ya Type 2</string>
+    <string name="Line1">1)</string>
+    <string name="Line2">2)</string>
+    <string name="Line3">3)</string>
+    <string name="addButton">ADD Button</string>
+</resources>
